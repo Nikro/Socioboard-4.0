@@ -6,7 +6,8 @@ Being open-source, I thought to have it as a little-pet project to remove all th
 
 Having extra time? Feel free to jump into the cutting ✂
 
-==========
+----
+
 **Socioboard** is world’s first open source social technology enabler and first open source product company from India. We build social technology which helps businesses and brands to better understand social media and harness its real power.
 Our vision is to provide easy to use tools to businesses and brands which covers 360 degree use cases when it comes to Social Media.
 
